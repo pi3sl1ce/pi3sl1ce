@@ -1,16 +1,26 @@
-## Hi there 👋
+## Hello, I'm pi3sl1ce
 
-<!--
-**pi3sl1ce/pi3sl1ce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m building a strong foundation in cybersecurity with a long-term interest in both offensive security (red teaming)
+and defensive operations.
+I’m currently studying Informatics and Computer Engineering, with a focus on understanding systems at a low level.
 
-Here are some ideas to get you started:
+### Current Focus
+- Operating system and networking fundamentals
+- Reverse engineering basics
+- Core cybersecurity concepts through structured learning and small experiments
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Areas of Interest
+- Red teaming concepts and attacker methodologies
+- Incident response and security investigations
+- OSINT and reconnaissance techniques
+- Phishing and social engineering awareness
+- AI-generated media and deepfake awareness
+- Reverse engineering of game mods and open components
+
+### Approach
+I focus on understanding systems deeply, documenting what I learn, and keeping all work within legal and ethical boundaries.
+Foundational learning is documented openly, while more advanced or practical work is developed in separate repositories.
+
+---
+
+📌 This profile reflects an early-stage learning journey. Interests may evolve as skills and experience grow.
