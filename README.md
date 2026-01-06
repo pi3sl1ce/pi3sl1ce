@@ -1,4 +1,4 @@
-## Hello, I'm pi3sl1ce
+## Hello world
 
 I’m building a strong foundation in cybersecurity with a long-term interest in both offensive security (red teaming)
 and defensive operations.
